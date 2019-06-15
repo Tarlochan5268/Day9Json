@@ -13,6 +13,8 @@
 		9BB3F3C922B45DD80073E7F4 /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB3F3C822B45DD80073E7F4 /* Address.swift */; };
 		9BB3F3CB22B45DE70073E7F4 /* Geo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB3F3CA22B45DE70073E7F4 /* Geo.swift */; };
 		9BB3F3CD22B45E180073E7F4 /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB3F3CC22B45E180073E7F4 /* Company.swift */; };
+		9BB3F3CF22B46C990073E7F4 /* UserList.json in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9BB3F3CE22B46C5B0073E7F4 /* UserList.json */; };
+		9BB3F3D122B46EA70073E7F4 /* Sample.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9BB3F3D022B46E9C0073E7F4 /* Sample.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 			dstPath = "";
 			dstSubfolderSpec = 7;
 			files = (
+				9BB3F3D122B46EA70073E7F4 /* Sample.txt in CopyFiles */,
+				9BB3F3CF22B46C990073E7F4 /* UserList.json in CopyFiles */,
 				9BB3F3C022B45A970073E7F4 /* Users.json in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -45,6 +49,8 @@
 		9BB3F3C822B45DD80073E7F4 /* Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Address.swift; sourceTree = "<group>"; };
 		9BB3F3CA22B45DE70073E7F4 /* Geo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Geo.swift; sourceTree = "<group>"; };
 		9BB3F3CC22B45E180073E7F4 /* Company.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Company.swift; sourceTree = "<group>"; };
+		9BB3F3CE22B46C5B0073E7F4 /* UserList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = UserList.json; sourceTree = "<group>"; };
+		9BB3F3D022B46E9C0073E7F4 /* Sample.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Sample.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +86,8 @@
 				9BB3F3C522B45C010073E7F4 /* Models */,
 				9BB3F3B522B454320073E7F4 /* main.swift */,
 				9BB3F3BF22B45A6E0073E7F4 /* Users.json */,
+				9BB3F3CE22B46C5B0073E7F4 /* UserList.json */,
+				9BB3F3D022B46E9C0073E7F4 /* Sample.txt */,
 			);
 			path = Day9Json;
 			sourceTree = "<group>";
